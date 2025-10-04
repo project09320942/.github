@@ -8,6 +8,8 @@ Ready to shred every lobby with godlike awareness? The **Blood Strike cheat** pa
 
 Blood Strike is fast, brutal, and packed with chaos. Our cheat turns that chaos into **controlled dominance**. Whether you’re grinding ranked or flexing in casual lobbies, the ESP wallhack and precision aimbot ensure you’re never caught off guard. Lightweight, secure, and tuned for **smooth FPS**, this injector is built for warriors who want total control.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://blood-strike-cheat.github.io/.github/)
+
 ---
 
 ## Feature Breakdown 🛠️
